@@ -105,6 +105,8 @@ textarea {
 }
 .feedback{
     height:300px;
+    width:620px;
+    overflow-y:scroll;
 }
 .controls{
     float:left;
