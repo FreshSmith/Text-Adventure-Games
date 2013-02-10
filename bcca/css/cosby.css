@@ -93,9 +93,27 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-
-
-
+.wrap{
+    width:960px;
+    margin:0 auto;
+}
+.game{
+    background:#eee;
+    width:620px;
+    float:left;
+    padding:20px;
+}
+.feedback{
+    height:300px;
+}
+.controls{
+    float:left;
+    width:260px;
+    padding:0 20px;
+}
+#user-actions{
+    width:100%;
+}
 
 
 
